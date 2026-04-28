@@ -1,2 +1,7 @@
-# demo-estudio-juridico
-Demo web para Estudio juridico — diseñada por eterlab.
+# Estudio juridico
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
